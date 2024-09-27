@@ -1,5 +1,5 @@
 <div align="center">
-<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Jose+Oquendo!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
+<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Jose!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
 </div>
 <div align="center">
     <h2> 🎮 About Me</h2>
@@ -55,10 +55,10 @@
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonaRiver&theme=github_dark&utcOffset=10" alt="Jhonatan's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonaRiver&theme=github_dark" alt="Jhonatan's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlphaShrodinger&theme=github_dark" alt="José's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlphaShrodinger&theme=github_dark&utcOffset=10" alt="José's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphaShrodinger&theme=github_dark" alt="José's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphaShrodinger&theme=github_dark" alt="José's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
