@@ -13,3 +13,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.angel.oquendo22@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./José_Oquendo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-oquendo-b488a5328)
+
+![Views](https://komarev.com/ghpvc/?username=jhonaRiver&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+
+![Snake animation](https://raw.githubusercontent.com/jhonaRiver/jhonaRiver/output/github-contribution-grid-snake-dark.svg)
+
+</div>
