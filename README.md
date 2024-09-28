@@ -14,7 +14,7 @@
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./José_Oquendo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-oquendo-b488a5328)
 
-![Views](https://komarev.com/ghpvc/?username=AlphaShrodinger&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AlphaShrodinger&style=for-the-badge)
 
 </div>
 
