@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Allows you to manually trigger the action in the Actions tab
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
@@ -17,3 +17,13 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: "github-contribution-grid-snake.svg"
+    
+      # Optional: Publish to GitHub Pages if you want to host the SVG on GitHub Pages
+      - name: Deploy SVG to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          # Updated to v2 to ensure compatibility with Node 16 and future versions
+          target_branch: output
+          build_dir: .  # Adjust as needed if your SVG is in a specific directory
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
