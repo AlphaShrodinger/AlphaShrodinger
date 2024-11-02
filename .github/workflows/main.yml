@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Update to v3 to avoid deprecated node issues
       
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: AlphaShrodinger  
           output: "./output/github-contribution-grid-snake.svg"
+ 
