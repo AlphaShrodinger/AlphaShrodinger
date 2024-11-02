@@ -22,7 +22,7 @@
   <h2>☄ Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
 
-![Snake animation](https://github.com/AlphaShrodinger/AlphaShrodinger/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AlphaShrodinger/AlphaShrodinger/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
