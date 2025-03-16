@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h2> 🎮 About Me</h2>
-    <p>I am currently a programming student at Holberton Coding School, with aspirations of becoming either a web designer or a game developer. My technical range is growing, learning everyday and staying up to date with tech trends</p>
+    <p>I am a software engineer from Holberton Coding School, with aspirations of becoming either a web designer or a game developer. My technical range is growing, learning everyday and staying up to date with tech trends</p>
 </div>
 
 <div align="center">
